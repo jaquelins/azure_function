@@ -18,8 +18,3 @@ Este projeto é um microsserviço serverless desenvolvido com **Azure Functions*
    func start
    ```
 
-## 🚀 Deployment no Azure
-- Utilize o comando:
-  ```sh
-  func azure functionapp publish <nome-da-sua-function-app>
-  ```
